@@ -1,1 +1,0 @@
-/usr/bin/g++-13 CMakeFiles/tests.dir/test.cpp.o -o tests  libsolution.a lib/libgtest.a lib/libgtest_main.a lib/libgtest.a 
